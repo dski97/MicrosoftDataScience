@@ -12,3 +12,5 @@ print(f"Variance: {np.var(sample)}")
 #plot a histogram of the sample
 plt.hist(sample)
 plt.show()
+
+#import data
